@@ -5,7 +5,6 @@
 ![Biomechanics](https://img.shields.io/badge/Biomechanics-IMU-blueviolet)
 ![Musculoskeletal Simulation](https://img.shields.io/badge/OpenSim-Musculoskeletal%20Modeling-red)
 ![Physics-Informed Learning](https://img.shields.io/badge/Physics--Informed-Learning-blue)
-![OpenSim](https://img.shields.io/badge/OpenSim-Musculoskeletal%20Modeling-red)
 ![FAU](https://img.shields.io/badge/FAU-MLMA%20Seminar-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
