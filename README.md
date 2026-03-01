@@ -94,6 +94,8 @@ It provides hands-on experience in **biomechanics, deep learning, and physics-in
 
 ## 📁 Repository Structure
 ```bash
+
+|-- data and models             # The IK models and data
 |-- report/                     # Final academic project report
 |   |-- MLMA_Project_Report.pdf
 |
@@ -108,7 +110,6 @@ It provides hands-on experience in **biomechanics, deep learning, and physics-in
 |
 |-- results/                    # Plots and evaluation metrics
 |
-|-- requirements.txt
 |-- README.md
 ```
 
