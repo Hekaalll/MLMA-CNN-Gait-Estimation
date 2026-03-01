@@ -101,10 +101,10 @@ It provides hands-on experience in **biomechanics, deep learning, and physics-in
 |   |-- MLMA_Presentation.pdf
 |
 |-- code/                       # Implementation files
-|   |-- data_preprocessing.py
-|   |-- cnn_model.py
-|   |-- training.py
-|   |-- evaluation.py
+|   |-- imu_dataset_subject01.csv
+|   |-- imu_dataset_subject01_lag.csv
+|   |-- MLMA_project.ipynb
+|   |-- trained_model_ridge.pkl
 |
 |-- results/                    # Plots and evaluation metrics
 |
