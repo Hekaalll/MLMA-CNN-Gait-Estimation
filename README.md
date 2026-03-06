@@ -15,6 +15,8 @@ The objective is to estimate **sagittal-plane lower-limb biomechanics** — incl
 
 To overcome the **small-dataset problem in biomechanics**, the project combines **measured IMU data** with **physics-based musculoskeletal simulated data** to improve model generalization.
 
+**Supervisor**: Prof. Anne Koelewijn, BioMAC – Biomechanical Motion Analysis and Creation Group, FAU.
+
 ---
 
 ## 📖 Academic Context
